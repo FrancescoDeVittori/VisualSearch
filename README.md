@@ -1,7 +1,7 @@
 VisualSearch
 ============
 
-Implementation of a simple color-based search by image in F#, as described in this tutorial: http://www.frenk.com/?p=424
+Implementation of a simple color-based search by image in F#, as described in this tutorial: http://www.frenk.com/2012/05/simple-color-based-search-by-image-in-f/
 
 
 Distributed under the MIT License.
